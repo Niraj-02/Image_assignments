@@ -1,0 +1,7 @@
+{
+  "prompt": "A hyper-realistic, high-contrast photograph of an ancient, cracked stone tablet inscribed with hundreds of different exquisite calligraphic scripts (Hindi, Arabic, Bengali, etc.). A heavy, smooth, industrial grey concrete slab is slowly pouring over the tablet, filling the grooves of the letters and erasing them into a flat, featureless surface. 50% of the ancient textures are already gone under the grey sludge. No glowing lights, no digital effects, no floating particles. Natural, harsh side-lighting that emphasizes the depth of the carvings. Cinematic, somber, 8k resolution. --ar 16:9",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "Usage statistics of content languages for websites",
+  "dataset_url": "https://w3techs.com/technologies/overview/content_language",
+  "insight": "The digital landscape acts as a brutalist monoculture, where the sterile dominance of a few languages is physically erasing the rich, ancient textures of global linguistic diversity."
+}
