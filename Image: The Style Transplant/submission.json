@@ -1,0 +1,8 @@
+{
+  "prompt": "A 1925 Soviet Constructivist lithograph poster. The composition is starkly asymmetrical and flat. In the lower-left corner, a tiny, grainy, black-and-white high-contrast photographic cutout of a worker (the 'data point') stands in a vast, empty cream-colored void. From the upper-right, a series of flat, solid-red and solid-black geometric bars and steel girders thrust across the frame at aggressive, non-parallel diagonal angles. The bars overlap each other without 3D shading or gradients. The space is sparse and hollow, emphasizing the vast distance between the figure and the structure. Palette: flat crimson red, coal black, and aged cream paper. No radial symmetry, no 3D perspective, no 3D rendering. Visible ink-texture and rough paper grain. Minimalist, bold, and industrial. --ar 2:3",
+  "model": "Flux Pro 1.1",
+  "concept": "the curse of dimensionality",
+  "tradition_name": "Soviet Constructivist posters",
+  "tradition_period": "1920s–1930s",
+  "tradition_approach": "I targeted the movement's flat lithographic color fields and asymmetrical, off-kilter diagonal axes. By avoiding 3D perspective, the structural grammar emphasizes the sparse, overwhelming volume of expanding dimensions crushing a single, isolated data point."
+}
