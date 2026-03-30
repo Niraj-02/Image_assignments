@@ -1,0 +1,6 @@
+{
+  "prompt": "A close-up, high-detail photograph of a deep, rigid mud impression of a specific, old, worn-out boot sole (complete with a memorized detail of a tiny pebble stuck in the heel tread). A separate, brand-new, different-tread hiking boot is now awkwardly pressing down into that same old print. The new boot is tilting, its different tread is buckling the edges of the rigid print, and it clearly cannot fit. The composition emphasizes the physical friction and incompatibility. Mud texture is rich and tactile, with no non-physical elements. Cinematic, natural lighting. 8k, photorealistic. --ar 3:2",
+  "model": "Flux Pro 1.1",
+  "concept": "overfitting",
+  "metaphor": "A rigid, deep mud print that has perfectly memorized the specific, flawed details (the 'noise') of one old boot, causing it to reject a different, new test boot."
+}
