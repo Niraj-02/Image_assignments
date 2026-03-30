@@ -2,5 +2,5 @@
   "prompt": "A hyper-realistic, high-contrast documentary macro photograph of a delicate, translucent glass-blown sparrow. A heavy, blank, brutalist steel industrial caliper, which has absolutely no numerical markings, scales, or tick marks on its surface, is clamped tightly around the sparrow's torso. The metal jaws are visibly biting into the glass, causing a fine, jagged web of fractal cracks to radiate across the bird's body. Shards of glass are starting to peel away. The lighting is clinical, cold, and harsh, emphasizing the physical tension between the soft, organic-shaped glass and the rigid, unmarked metal. No text, no numbers. Shallow depth of field, tactile textures. 8k. --ar 16:9",
   "model": "Flux Pro 1.1",
   "paradox": "Goodhart's Law",
-  "visual_logic": "A fragile glass bird, representing a complex system, is being destroyed by the act of measurement. A blank steel industrial caliper (with no numerical scales) is crushing the bird's body, physically proving that the pursuit of measurement is obliterating the very subject it was meant to quantify."
+  "visual_logic": "A fragile glass bird is destroyed by the act of measurement. An unmarked steel caliper crushes the subject, proving that extreme pursuit of a metric can physically obliterate the system being quantified."
 }
